@@ -1,4 +1,5 @@
 /*
+  Powered by Haxe 3.
   Lazy computation of the infinite list of Fibonacci numbers.
   Similar to the Haskellish "fibs = 1 : 1 : zipWith (+) fibs (tail fibs)"
 */
